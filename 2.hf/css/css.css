@@ -1,0 +1,84 @@
+div h1 {color: black;
+	color: black;
+	background-color: lightyellow ;
+	text-align: center;
+	font-weight: bolder;
+	font-size:500%;}
+
+body{background-color: lightyellow;}
+
+.menusor { background-color: turquoise; 
+		text-align: center;
+		font-size: 150%;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;}
+
+.aktualis, .nemaktualis {display: inline-block;
+						padding: 12px;
+						margin: 3px;
+						border: 3px solid black;
+						border-radius: 12px;}
+
+.aktualis {color: black;
+			background-color: paleturquoise;}
+
+.nemaktualis { color:black; 
+				background-color: turquoise;}
+
+.nemaktualis { text-decoration: none; }
+
+.h3szoveg{	display: block;
+			margin-right: auto;
+			margin-left: auto;
+			padding: 12px; 
+			border: 3px solid black; 
+			background-color: turquoise;
+			border-style: solid; 
+			border-radius: 12px;
+			width: 70%;
+			text-align: center;
+			font-size: 120%;}
+
+.h4szoveg {display: block;
+			margin-right: auto;
+			margin-left: auto;
+			padding: 12px; 
+			margin-top: 10px;
+			border: 3px solid black; 
+			background-color: turquoise;
+			border-style: solid; 
+			border-radius: 12px;
+			width: 40%;
+			text-align: center;
+			font-size: 120%;}
+
+.munkaimkep img {margin-left: auto;
+				margin-right: auto;
+				display: block;
+				max-height: 350px;
+				display: block;
+				padding: 20px;
+				background-color: turquoise;
+				border: 3px solid black;
+				border-radius: 12px;}
+
+.tervkep img {margin-left: auto;
+				margin-right: auto;
+				display: block;
+				max-height: 400px;
+				display: block;
+				padding: 20px;
+				background-color: turquoise;
+				border: 3px solid black;
+				border-radius: 12px;}
+
+.en img {margin-left: auto;
+				margin-right: auto;
+				display: block;
+				max-height: 200px;
+				display: block;
+				padding: 20px;
+				background-color: turquoise;
+				border: 3px solid black;
+				border-radius: 12px;}
